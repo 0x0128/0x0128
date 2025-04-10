@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is 0x0127</h2>
+<h2 align="center">Hi 👋! My name is 0x0128</h2>
 
 ###
 
@@ -57,8 +57,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x0128/0x0128/output/pacman-contribution-graph-dark.svg">
