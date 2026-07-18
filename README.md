@@ -6,7 +6,6 @@
 🚀 Building and sharing projects and technological experiments across Cybersecurity, Artificial Intelligence, Software Development, Gaming, and many other fields on GitHub.<br/>
 🤖 Currently exploring AI Security, AI Infrastructure, Cloud Technologies, and the next generation of intelligent systems.<br/>
 
----
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
@@ -39,7 +38,6 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=0x0128&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=0x0128&theme=dark&hide_border=false)<br/>
