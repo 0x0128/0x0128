@@ -37,9 +37,15 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=0x0128&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=0x0128&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0x0128&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img width="54%" src="https://github-readme-stats.shion.dev/api?username=0x0128&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0x0128&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=0x0128&theme=dark&hide_border=false" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0x0128&theme=dark&no-frame=false&no-bg=false&margin-w=4)
