@@ -1,54 +1,124 @@
-<!-- Level 3: Add custom code -->
+<div align="center">
 
-# 👋 Hi, I'm Alaa (akka 0x0128)!
-👩🏻‍💻 Computer Engineer with a strong passion for Cybersecurity, Artificial Intelligence, Software Development, and building innovative technology solutions.<br/>
-👩🏻‍🎓 Studied Computer Science Engineering at the National University of Distance Education (UNED), Spain.<br/>
-🚀 Building and sharing projects and technological experiments across Cybersecurity, Artificial Intelligence, Software Development, Gaming, and many other fields on GitHub.<br/>
-🤖 Currently exploring AI Security, AI Infrastructure, Cloud Technologies, and the next generation of intelligent systems.<br/>
+<a href="https://github.com/0x0128">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="960" alt="0x0128: AI and cybersecurity. A vim window showing the 0x0128 owl-shield mark and profile.yml.">
+  </picture>
+</a>
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+</div>
 
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+## `$ whoami`
 
 <p align="center">
-  <img width="54%" src="https://github-readme-stats.shion.dev/api?username=0x0128&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0x0128&theme=dark&hide_border=false&layout=compact" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <img src="assets/whoami-light.svg" width="960" alt="0x0128: AI and cybersecurity, based in Spain. Focus: Cybersecurity (Monitoring, Detection, Analysis and Response) and AI (Developing, Implementation and Security).">
+  </picture>
 </p>
+
+---
+
+## `$ cat skills-radar.log`
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=0x0128&theme=dark&hide_border=false" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <img src="assets/radar-light.svg" width="560" alt="Self-rated skill radar across Monitoring, Detection, Analysis, Response, AI Development, AI Implementation and AI Security. The values move within a range instead of showing a fixed score.">
+  </picture>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0x0128&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center"><sub><code>signals: live_skill_radar · self_rated · status: evolving</code></sub></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+## `$ ls projects/ --featured`
+
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/cane-header-dark.svg">
+          <img src="assets/cards/cane-header-light.svg" alt="Cane">
+        </picture><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/chips/status-building-dark.svg">
+          <img src="assets/chips/status-building-light.svg" alt="Status: building">
+        </picture><br>
+        An AI assistant for the SOC.
+      </td>
+      <td width="50%" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/loupe-header-dark.svg">
+          <img src="assets/cards/loupe-header-light.svg" alt="Loupe">
+        </picture><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/chips/status-building-dark.svg">
+          <img src="assets/chips/status-building-light.svg" alt="Status: building">
+        </picture><br>
+        A lab SOC: a home lab for writing detections and investigating what they catch.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/0x0128/CTF-WriteUps"><picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/ctf-writeups-header-dark.svg">
+          <img src="assets/cards/ctf-writeups-header-light.svg" alt="CTF Write-Ups">
+        </picture></a><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/chips/status-public-dark.svg">
+          <img src="assets/chips/status-public-light.svg" alt="Status: public">
+        </picture><br>
+        Write-ups of solved machines from Hack The Box, TryHackMe and VulnHub. <a href="https://github.com/0x0128/CTF-WriteUps">Open repo</a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/0x0128/Documentation"><picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/documentation-header-dark.svg">
+          <img src="assets/cards/documentation-header-light.svg" alt="Documentation">
+        </picture></a><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/chips/status-public-dark.svg">
+          <img src="assets/chips/status-public-light.svg" alt="Status: public">
+        </picture><br>
+        A cybersecurity manual: notes from courses and studies. <a href="https://github.com/0x0128/Documentation">Open repo</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0x0128&background=0A0A0A&border=2A2A2A&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8C8C8C&dates=8C8C8C&border_radius=14&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=0x0128&background=FFFFFF&border=E0E0E0&stroke=E0E0E0&ring=0A0A0A&fire=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=0A0A0A&sideLabels=6B6B6B&dates=6B6B6B&border_radius=14&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
+  </picture>
+</a>
+
+</div>
+
+---
+
+## `$ connect --contact`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alaabenyahiaelharrak/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/link-linkedin-dark.svg"><img src="assets/chips/link-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
+<a href="https://medium.com/@0x0128"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/link-medium-dark.svg"><img src="assets/chips/link-medium-light.svg" height="36" alt="Medium"></picture></a>&nbsp;&nbsp;
+<a href="https://linktr.ee/0x0128"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/link-linktree-dark.svg"><img src="assets/chips/link-linktree-light.svg" height="36" alt="Linktree"></picture></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><code>0x0128 = 0000 0001 0010 1000</code></sub>
+</div>

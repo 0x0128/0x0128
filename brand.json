@@ -1,0 +1,159 @@
+{
+  "_readme": "Everything the profile images show comes from this file. Edit it, then run: python3 scripts/build.py",
+  "handle": "0x0128",
+  "name": "0x0128",
+  "role": "AI & Cybersecurity",
+  "themes": {
+    "dark": {
+      "bg": "#000000",
+      "win": "#0A0A0A",
+      "panel": "#111111",
+      "rule": "#2A2A2A",
+      "text": "#F5F5F5",
+      "muted": "#8C8C8C",
+      "key": "#FFFFFF",
+      "sub": "#BDBDBD",
+      "dot": "#FFFFFF",
+      "dot2": "#6E6E6E",
+      "badge": "#F5F5F5",
+      "badge_text": "#000000",
+      "chip": "#1A1A1A",
+      "chip_text": "#F5F5F5",
+      "grid": "#2A2A2A",
+      "off": "#262626"
+    },
+    "light": {
+      "bg": "#FFFFFF",
+      "win": "#FFFFFF",
+      "panel": "#F6F6F6",
+      "rule": "#E0E0E0",
+      "text": "#0A0A0A",
+      "muted": "#6B6B6B",
+      "key": "#000000",
+      "sub": "#4A4A4A",
+      "dot": "#000000",
+      "dot2": "#A3A3A3",
+      "badge": "#0A0A0A",
+      "badge_text": "#FFFFFF",
+      "chip": "#F0F0F0",
+      "chip_text": "#0A0A0A",
+      "grid": "#DADADA",
+      "off": "#E3E3E3"
+    }
+  },
+  "banner": {
+    "yaml": [
+      "profile:",
+      "  handle: 0x0128",
+      "  domain: AI & Cybersecurity",
+      "  origin: Spain",
+      "  status: developing_projects",
+      "cybersecurity:",
+      "  focus: Monitoring · Detection · Analysis · Response",
+      "ai:",
+      "  focus: Developing · Implementation · Security",
+      "projects:",
+      "  building: Cane · Loupe",
+      "contact:",
+      "  links: linktr.ee/0x0128"
+    ]
+  },
+  "whoami": {
+    "who": "0x0128",
+    "role": "AI & Cybersecurity",
+    "context": "Spain",
+    "mission": "",
+    "expertise": [
+      [
+        "cyber/",
+        "Monitoring · Detection · Analysis · Response"
+      ],
+      [
+        "ai/",
+        "Developing · Implementation · Security"
+      ]
+    ],
+    "art_title": "owl.runtime",
+    "art_status": "status: always watching"
+  },
+  "projects": [
+    {
+      "name": "Cane",
+      "repo": "cane",
+      "tagline": "AI assistant for the SOC"
+    },
+    {
+      "name": "Loupe",
+      "repo": "loupe",
+      "tagline": "Lab SOC for detection and investigation"
+    },
+    {
+      "name": "CTF Write-Ups",
+      "repo": "ctf-writeups",
+      "tagline": "Hack The Box, TryHackMe and VulnHub"
+    },
+    {
+      "name": "Documentation",
+      "repo": "documentation",
+      "tagline": "Cybersecurity manual and course notes"
+    }
+  ],
+  "chips": {
+    "status-building": [
+      "building"
+    ],
+    "status-public": [
+      "public"
+    ],
+    "link-linkedin": [
+      "LinkedIn"
+    ],
+    "link-medium": [
+      "Medium"
+    ],
+    "link-linktree": [
+      "Linktree"
+    ]
+  },
+  "radar": {
+    "_readme": "Each axis moves between a low and a high value (0-100), so the radar never shows a fixed score. Tune the ranges to taste.",
+    "title": "Skill Radar",
+    "axes": [
+      [
+        "Monitoring",
+        72,
+        90
+      ],
+      [
+        "Detection",
+        68,
+        88
+      ],
+      [
+        "Analysis",
+        58,
+        80
+      ],
+      [
+        "Response",
+        52,
+        76
+      ],
+      [
+        "AI Development",
+        42,
+        66
+      ],
+      [
+        "AI Implementation",
+        48,
+        72
+      ],
+      [
+        "AI Security",
+        66,
+        88
+      ]
+    ]
+  }
+}
